@@ -156,3 +156,5 @@ Repo: https://github.com/nixjs/base-ui
 | [Spinner](https://github.com/nixjs/base-ui/tree/main/packages/spinner)       | Spinner.                                                             | [`@nixjs23n6/baseui-spinner`](https://www.npmjs.com/package/@nixjs23n6/baseui-spinner)       |
 | [Tooltip](https://github.com/nixjs/base-ui/tree/main/packages/tooltip)       | A simple text popup tip.                                             | [`@nixjs23n6/baseui-tooltip`](https://www.npmjs.com/package/@nixjs23n6/baseui-tooltip)       |
 | [Hook](https://github.com/nixjs/base-ui/tree/main/packages/hook)             | Hooks.                                                               | [`@nixjs23n6/baseui-hook`](https://www.npmjs.com/package/@nixjs23n6/baseui-hook)             |
+
+<img align="center" width="100%" src="https://raw.githubusercontent.com/nixjs/nixjs/278330b33b2e04ea54f2fb4f275cbef83ef0a227/ils_12.svg">
