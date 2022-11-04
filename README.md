@@ -10,6 +10,16 @@ Repo: https://github.com/nixjs/grpc-client-toolkit
 | ------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
 | [Source](https://github.com/nixjs/grpc-client-toolkit/tree/main/packages/types) | [`@nixjs23n6/types`](https://www.npmjs.com/package/@nixjs23n6/types) |
 
+### Objectify
+
+A tiny object utility.
+
+Repo: https://github.com/nixjs/objectify
+
+| Package                                                                         | npm                                                                  |
+| ------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| [Source](https://github.com/nixjs/objectify) | [`@nixjs23n6/objectify`](https://www.npmjs.com/package/@nixjs23n6/objectify) |
+
 ### gRPC client toolkit
 
 gRPC Client is the port of gRPC-Web library. For making gRPC requests from a browser.
