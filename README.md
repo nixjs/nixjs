@@ -1,7 +1,15 @@
+![Image info](https://raw.githubusercontent.com/nixjs/nixjs/37239388ff6438d90acc2ba175c452648f78d9f6/ils_09.svg)
 
-# Libraries you looking for
+# Nixjs23n6
+Libraries you may need, they will help you a lot for your projects.
 
-## Packages
+If you want to build or develop any product related to website or dapps, you can contact me:
+
+- [Email](nghiweb@gmail.com)
+- [Twitter](https://twitter.com/unknown23n6)
+- [Telegram](https://t.me/unknown23n6)
+
+## Packages:
 
 ### Types
 
