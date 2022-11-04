@@ -61,6 +61,16 @@ Repo: https://github.com/nixjs/axios-client
 | ----------------------------------------------------- | ---------------- |
 | [Source](https://github.com/nixjs/axios-client) | [`@nixjs23n6/axios-client`](https://www.npmjs.com/package/@nixjs23n6/axios-client) |
 
+### Error message
+
+A simple component to control the error message.
+
+Repo: https://github.com/nixjs/error-message
+
+| Package                                               | npm              |
+| ----------------------------------------------------- | ---------------- |
+| [Source](https://github.com/nixjs/error-message) | [`@nixjs23n6/error-message`](https://www.npmjs.com/package/@nixjs23n6/error-message) |
+
 ### QRcode react
 
 A React component to generate QRCode.
