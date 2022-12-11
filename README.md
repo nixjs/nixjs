@@ -1,13 +1,27 @@
+![Image info](https://raw.githubusercontent.com/nixjs/nixjs/37239388ff6438d90acc2ba175c452648f78d9f6/ils_09.svg)
+
 # Omega Wallet - Aptos, SUI, Ethereum
 
-A secure blockchain wallet that supports: APTOS, SUI, Ethereum, DApp, DeFi, and acts as your portal to the Web3 world.
+[<img align="center" width="250" src="https://raw.githubusercontent.com/nixjs/nixjs/40824a0c8297e70a60630a6fd7d1704748f7e75b/Omega-dark.svg">](https://chrome.google.com/webstore/detail/omega-wallet-aptos-sui-et/mobgoaaconpcicgajnpclkelkmjigiak)
 
-Omega Wallet is a browser extension wallet for multi blockchains. It enables you to access multi blockchains directly from your favorite browser.
+> A secure blockchain wallet that supports: APTOS, SUI, Ethereum, DApp, DeFi, and acts as your portal to the Web3 world.
 
-[Link download](https://chrome.google.com/webstore/detail/omega-wallet-aptos-sui-et/mobgoaaconpcicgajnpclkelkmjigiak)
+> Omega Wallet is a browser extension wallet for multi blockchains. It enables you to access multi blockchains directly from your favorite browser.
 
+Omega Wallet allows you to:
 
-![Image info](https://raw.githubusercontent.com/nixjs/nixjs/37239388ff6438d90acc2ba175c452648f78d9f6/ils_09.svg)
+-  Support multi blockchains.
+-  Easily send, receive and view the transaction records any time.
+-  Create multiple wallet accounts with a single mnemonic.
+-  Send and view NFTs. Display all explores and Dapps integrated.
+
+## Link download:
+
+**https://chrome.google.com/webstore/detail/omega-wallet-aptos-sui-et/mobgoaaconpcicgajnpclkelkmjigiak**
+
+Learn more at https://www.omega-wallet.xyz/
+
+Are you a developer? Learn how to integrate Ethos into your dApp here: https://www.omega-wallet.xyz/docs/integrating/detecting-the-provider
 
 # Nixjs23n6
 Libraries you may need, they will help you a lot for your projects.
