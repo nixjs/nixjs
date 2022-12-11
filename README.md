@@ -65,7 +65,7 @@ Repo: https://github.com/nixjs/grpc-client-toolkit
 | [Source-Core](https://github.com/nixjs/grpc-client-toolkit/tree/main/packages/core)   | Core for gRPC Web Client.                              | [`@nixjs23n6/grpc-core`](https://www.npmjs.com/package/@nixjs23n6/grpc-core)   |
 | [Source-React](https://github.com/nixjs/grpc-client-toolkit/tree/main/packages/react) | A react context which helps you to deal with gRPC web. | [`@nixjs23n6/grpc-react`](https://www.npmjs.com/package/@nixjs23n6/grpc-react) |
 
-### Wallet connector
+<!-- ### Wallet connector
 
 This SDK uses the web3 standard to enable developers to easily connect to a wide range of crypto wallets, such as Binance Chain Wallet, MetaMask, ConnectWallet, and Coin98. More wallets will come in the near future.
 
@@ -74,7 +74,7 @@ Repo: https://github.com/nixjs/wallet-connector
 | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | [Source-Core](https://github.com/nixjs/wallet-connector/tree/master/packages/core)   | A simple, maximally extensible, dependency minimized framework for building modern Ethereum/Tron and other dApps. | [`@nixjs23n6/wc-core`](https://www.npmjs.com/package/@nixjs23n6/wc-core)   |
 | [Source-React](https://github.com/nixjs/wallet-connector/tree/master/packages/react) | A simple, maximally extensible, dependency minimized framework for building modern dApps using React.             | [`@nixjs23n6/wc-react`](https://www.npmjs.com/package/@nixjs23n6/wc-react) |
-
+ -->
 ### Backoff
 
 A small library which handles decaying constant/linear/exponential backOff.
