@@ -1,3 +1,12 @@
+# Omega Wallet - Aptos, SUI, Ethereum
+
+A secure blockchain wallet that supports: APTOS, SUI, Ethereum, DApp, DeFi, and acts as your portal to the Web3 world.
+
+Omega Wallet is a browser extension wallet for multi blockchains. It enables you to access multi blockchains directly from your favorite browser.
+
+[Link download](https://chrome.google.com/webstore/detail/omega-wallet-aptos-sui-et/mobgoaaconpcicgajnpclkelkmjigiak)
+
+
 ![Image info](https://raw.githubusercontent.com/nixjs/nixjs/37239388ff6438d90acc2ba175c452648f78d9f6/ils_09.svg)
 
 # Nixjs23n6
