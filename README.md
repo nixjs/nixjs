@@ -23,7 +23,7 @@ Learn more at https://www.omega-wallet.xyz/
 
 Are you a developer? Learn how to integrate Ethos into your dApp here: https://www.omega-wallet.xyz/docs/integrating/detecting-the-provider
 
-# Nixjs23n6
+# Library
 Libraries you may need, they will help you a lot for your projects.
 
 If you want to build or develop any product related to website or dapps, you can contact me:
