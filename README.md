@@ -19,9 +19,9 @@ Omega Wallet allows you to:
 
 **https://chrome.google.com/webstore/detail/omega-wallet-aptos-sui-et/mobgoaaconpcicgajnpclkelkmjigiak**
 
-Learn more at https://www.omega-wallet.xyz/
+Learn more at: https://www.omega-wallet.app/ , https://www.omega-wallet.xyz/
 
-Are you a developer? Learn how to integrate Ethos into your dApp here: https://www.omega-wallet.xyz/docs/integrating/detecting-the-provider
+Are you a developer? Learn how to integrate Omega Wallet into your dApp here: https://www.omega-wallet.app/docs/integrating/detecting-the-provider,  https://www.omega-wallet.xyz/docs/integrating/detecting-the-provider
 
 # Library
 Libraries you may need, they will help you a lot for your projects.
