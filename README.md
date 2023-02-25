@@ -125,6 +125,16 @@ Repo: https://github.com/nixjs/qrcode-react
 | ----------------------------------------------------- | ---------------- |
 | [Source](https://github.com/nixjs/qrcode-react) | [`@nixjs23n6/qrcode-react`](https://www.npmjs.com/package/@nixjs23n6/qrcode-react) |
 
+### Countdown react
+
+A customizable countdown component for React.
+
+Repo: https://github.com/nixjs/ts-countdown-react
+
+| Package                                               | npm              |
+| ----------------------------------------------------- | ---------------- |
+| [Source](https://github.com/nixjs/ts-countdown-react) | [`@nixjs23n6/ts-countdown-react`](https://www.npmjs.com/package/@nixjs23n6/ts-countdown-react) |
+
 ### Facebook login
 
 A Component React for Facebook Login
