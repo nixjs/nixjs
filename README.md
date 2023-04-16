@@ -3,6 +3,7 @@
 # Omega Wallet - Aptos, SUI, Ethereum
 
 [<img align="center" width="250" src="https://raw.githubusercontent.com/nixjs/nixjs/40824a0c8297e70a60630a6fd7d1704748f7e75b/Omega-dark.svg">](https://chrome.google.com/webstore/detail/omega-wallet-aptos-sui-et/mobgoaaconpcicgajnpclkelkmjigiak)
+[<img align="center" height="250" style="margin-left: 20px;" src="https://api.daily.dev/devcards/449055aecb044529997ccc0c032d46da.png?r=7tp">](https://app.daily.dev/23n6)
 
 > A secure blockchain wallet that supports: APTOS, SUI, Ethereum, DApp, DeFi, and acts as your portal to the Web3 world.
 
