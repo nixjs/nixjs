@@ -169,6 +169,16 @@ Repo: https://github.com/nixjs/next-apple-login
 | ----------------------------------------------------- | ---------------- |
 | [Source](https://github.com/nixjs/next-apple-login) | [`@nixjs23n6/next-apple-login`](https://www.npmjs.com/package/@nixjs23n6/next-apple-login) |
 
+### React nest providers
+
+A lightweight, type-safe utility for composing multiple React providers into a single, nested tree. Simplify your provider setup with a clean, declarative API that supports optional props and seamless integration with TypeScript. Perfect for managing context providers in large-scale React applications.
+
+Repo: https://github.com/nixjs/react-nest-providers
+
+| Package                                               | npm              |
+| ----------------------------------------------------- | ---------------- |
+| [Source](https://github.com/nixjs/react-nest-providers) | [`@nixjs23n6/react-nest-providers`](https://www.npmjs.com/package/@nixjs23n6/react-nest-providers) |
+
 ### Base UI
 
 A React Component library with completely unstyled, fully accessible UI components.
