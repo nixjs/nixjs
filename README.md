@@ -30,8 +30,8 @@ Libraries you may need, they will help you a lot for your projects.
 If you want to build or develop any product related to website or dapps, you can contact me:
 
 - [Email](nghiweb@gmail.com)
-- [Twitter](https://twitter.com/unknown23n6)
-- [Telegram](https://t.me/unknown23n6)
+- [x.com](https://x.com/GiantyEth)
+- [Telegram](https://t.me/GiantyEth)
 
 ## Packages:
 
